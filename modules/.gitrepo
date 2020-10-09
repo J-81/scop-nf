@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/J-81/processes-nf.git
+	branch = main
+	commit = 4621e360c4f2dab3a43e9925f23c12161dfb835e
+	parent = 5659652a668ba07a9d198e35e9ad842ed212930b
+	method = merge
+	cmdver = 0.4.1
